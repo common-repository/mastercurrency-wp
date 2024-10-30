@@ -1,0 +1,167 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-18 08:49+0100\n"
+"PO-Revision-Date: 2016-03-18 09:14+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: mastercurrencywp.php:154
+msgid "Euro"
+msgstr "Euro"
+
+#: mastercurrencywp.php:155
+msgid "US dollar"
+msgstr "Amerikanska dollar"
+
+#: mastercurrencywp.php:156
+msgid "Japanese yen"
+msgstr "Japanska yen"
+
+#: mastercurrencywp.php:157
+msgid "Bulgarian lev"
+msgstr "Bulgariska lev"
+
+#: mastercurrencywp.php:158
+msgid "Czech koruna"
+msgstr "Tjeckiska koruna"
+
+#: mastercurrencywp.php:159
+msgid "Danish krone"
+msgstr "Danska kronor"
+
+#: mastercurrencywp.php:160
+msgid "Pound sterling"
+msgstr "Pund"
+
+#: mastercurrencywp.php:161
+msgid "Hungarian forint"
+msgstr "Ungerska forint"
+
+#: mastercurrencywp.php:162
+msgid "Polish zloty"
+msgstr "Polska zloty"
+
+#: mastercurrencywp.php:163
+msgid "New Romanian leu"
+msgstr "Nya rumänska leu"
+
+#: mastercurrencywp.php:164
+msgid "Swedish krona"
+msgstr "Kronor"
+
+#: mastercurrencywp.php:165
+msgid "Swiss franc"
+msgstr "Schweiziska franc"
+
+#: mastercurrencywp.php:166
+msgid "Norwegian krone"
+msgstr "Norska kronor"
+
+#: mastercurrencywp.php:167
+msgid "Croatian kuna"
+msgstr "Kroatiska kuna"
+
+#: mastercurrencywp.php:168
+msgid "Russian rouble"
+msgstr "Ryska rubel"
+
+#: mastercurrencywp.php:169
+msgid "New Turkish lira"
+msgstr "Nya turkiska lira"
+
+#: mastercurrencywp.php:170
+msgid "Australian dollar"
+msgstr "Australiska dollar"
+
+#: mastercurrencywp.php:171
+msgid "Brazilian real"
+msgstr "Brasilianska real"
+
+#: mastercurrencywp.php:172
+msgid "Canadian dollar"
+msgstr "Kanadensiska dollar"
+
+#: mastercurrencywp.php:173
+msgid "Chinese yuan renminbi"
+msgstr "Kinesiska yuan renminbi"
+
+#: mastercurrencywp.php:174
+msgid "Hong Kong dollar"
+msgstr "Hong Kong dollar"
+
+#: mastercurrencywp.php:175
+msgid "Indonesian rupiah"
+msgstr "Indonesiska rupiah"
+
+#: mastercurrencywp.php:176
+msgid "Israeli shekel"
+msgstr "Israeliska shekel"
+
+#: mastercurrencywp.php:177
+msgid "Indian rupee"
+msgstr "Indiska rupier"
+
+#: mastercurrencywp.php:178
+msgid "South Korean won"
+msgstr "Sydkoreanska won"
+
+#: mastercurrencywp.php:179
+msgid "Mexican peso"
+msgstr "Mexikanska peso"
+
+#: mastercurrencywp.php:180
+msgid "Malaysian ringgit"
+msgstr "Malaysiska ringgit"
+
+#: mastercurrencywp.php:181
+msgid "New Zealand dollar"
+msgstr "Nya Zeeland dollar"
+
+#: mastercurrencywp.php:182
+msgid "Philippine peso"
+msgstr "Filippinsk peso"
+
+#: mastercurrencywp.php:183
+msgid "Singapore dollar"
+msgstr "Singapore dollar"
+
+#: mastercurrencywp.php:184
+msgid "Thai baht"
+msgstr "Thailändska baht"
+
+#: mastercurrencywp.php:185
+msgid "South African rand"
+msgstr "Sydafrikanska rand"
+
+#: mastercurrencywp.php:695
+msgid "Amount"
+msgstr "Summa"
+
+#: mastercurrencywp.php:696
+msgid "From"
+msgstr "Från"
+
+#: mastercurrencywp.php:697
+msgid "To"
+msgstr "Till"
+
+#: mastercurrencywp.php:698
+msgid "Result"
+msgstr "Resultat"
+
+#: mastercurrencywp.php:699
+msgid "Calculate"
+msgstr "Beräkna"
